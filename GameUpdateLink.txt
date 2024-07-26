@@ -1,1 +1,1 @@
-market://details?id=com.DewGamesStudios.Sigato
+https://dewgamesstudios.github.io/DewGamesStudios.Sigato.github.io/MaintenanceNote.txt
