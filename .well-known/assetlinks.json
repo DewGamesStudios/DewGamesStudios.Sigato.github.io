@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.EgyGamesStudios.Sigato",
+      "sha256_cert_fingerprints":
+        ["44:27:C8:AF:24:81:26:47:C1:98:D3:2B:D6:63:02:48:4D:2D:49:9F:DA:8A:67:B2:93:00:E2:FF:A3:4A:C6:D2"]
+    }
+  }
+]
